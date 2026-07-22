@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#FF69B4">Hello! I'm Manar ✨</font></h1>
+<h1 align="center"><font color="#FF69B4">Hey! I'm Manar ✨</font></h1>
 
 <!-- Pink Neon Typing Animation -->
 <p align="center">
