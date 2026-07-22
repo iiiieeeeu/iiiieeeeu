@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#FF69B4">Hello! I'm [Manar] ✨</font></h1>
+<h1 align="center"><font color="#FF69B4">Hello! I'm Manar ✨</font></h1>
 
 <!-- Pink Neon Typing Animation -->
 <p align="center">
@@ -8,13 +8,14 @@
 ---
 
 ### 🔮 About Me
-
+```json
 {
   "role": "Java Developer",
   "passions": ["Clean Code", "MVC Architecture", "OOP Design Patterns"],
   "current_focus": "Building robust & fault-tolerant Java applications",
   "motto": "Write code for humans first, computers second."
 }
+```
 ---
 
 ### 🛠️ Tech Stack
