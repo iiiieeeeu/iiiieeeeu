@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiieeeeu&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiieeeeu&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiiieeeeu&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiiieeeeu&theme=radical" width="48%" />
 </p>
 
 ---
