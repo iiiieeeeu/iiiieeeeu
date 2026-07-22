@@ -19,6 +19,7 @@
   "motto": "Write code for humans first, computers second."
 }
 ```
+
 ---
 
 ### 🛠️ Tech Stack
@@ -32,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiieeeeu&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiieeeeu&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiieeeeu&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiieeeeu&theme=radical" width="48%" />
 </p>
 
 ---
@@ -42,3 +43,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=100&section=footer"/>
 </p>
+
+
